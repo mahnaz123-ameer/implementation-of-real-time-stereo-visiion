@@ -59,3 +59,5 @@ int main() {
         savePGM(img_right_cv, img_right_des);
     }
 }
+
+// clear && g++ main.cpp -std=c++11 `pkg-config --cflags --libs opencv4` && ./a.out
