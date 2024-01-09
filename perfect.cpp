@@ -75,5 +75,10 @@ int main() {
 
     return 0;
 }
-
-// clear && g++ main.cpp -std=c++11 `pkg-config --cflags --libs opencv4` && ./a.out
+/*
+clear && g++ main.cpp -std=c++11 `pkg-config --cflags --libs opencv4` && ./a.out
+Image 1: .png
+Image 2: .pgm
+Image 3: .png
+Show three images
+*/
